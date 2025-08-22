@@ -14,8 +14,6 @@ def test_connection():
     try:
         # Ping the MongoDB server
         client.admin.command("ping")
-        print(MONGO_URL)
-        print(f"✅ Connected to MongoDB at {MONGO_URL}")
     except Exception as e:
         print("❌ MongoDB connection failed:", e)
         raise
