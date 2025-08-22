@@ -64,14 +64,13 @@ The key flow is:
 ## Sample CSV
 
 A sample report CSV file is included in this repo:  
-- [sample_report.csv](reports/report_2bdd3ab1-9bb9-4954-9371-63de00a9e210.csv) *(replace with actual file or link)*
+- [sample_report.csv](reports/report_2bdd3ab1-9bb9-4954-9371-63de00a9e210.csv) 
 
 ---
 
 ## Ideas for Improvement
 
-- **Add caching layer** to reduce redundant calculations when reports are triggered frequently.  
-- **Asynchronous processing** using Celery/RQ to handle very large datasets without blocking APIs.  
+- **Add caching layer** to reduce redundant calculations when reports are triggered frequently.   
 - **Better error handling and retries** if data sources fail.  
 - **Deploy to cloud** (Render/Heroku) with a proper CI/CD pipeline.  
 - **Automated tests** to verify business-hour overlap logic.
@@ -81,7 +80,7 @@ A sample report CSV file is included in this repo:
 ## Demo Video
 
 A 3-minute screen recording (as per requirements) demonstrates the full flow:  
-*(Add Google Drive link or GitHub release link here)*
+*https://drive.google.com/file/d/1OwxSWRaEgc1Lh3cP6UaXrDchJ9OCEDn5/view?usp=sharing*
 
 ---
 
