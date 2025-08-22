@@ -1,6 +1,6 @@
 # Store Monitor Assessment
 
-This repository contains my submission for the **Store Monitoring Assessment** given by Loop AI.  
+This repository contains my submission for the **Store Monitoring Assessment** .  
 I decided to use **Python (FastAPI)** and **MongoDB** as the database for this solution.
 
 ---
