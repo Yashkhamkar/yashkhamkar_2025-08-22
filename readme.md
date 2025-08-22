@@ -64,7 +64,7 @@ The key flow is:
 ## Sample CSV
 
 A sample report CSV file is included in this repo:  
-- [sample_report.csv](sample_report.csv) *(replace with actual file or link)*
+- [sample_report.csv](reports/report_2bdd3ab1-9bb9-4954-9371-63de00a9e210.csv) *(replace with actual file or link)*
 
 ---
 
