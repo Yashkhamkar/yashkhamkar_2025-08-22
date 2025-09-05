@@ -20,7 +20,7 @@ The key flow is:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-username>/yash_2025-08-22.git
+   git clone https://github.com/Yashkhamkar/yashkhamkar_2025-08-22
    cd yash_2025-08-22
    ```
 
